@@ -1,6 +1,8 @@
 # Trabalho - Implementação de Lista Encadeada
 
 ## Integrantes do Grupo
+- Alan Filipe Reginato de França Santos 
+- Lucas Ferraz dos Santos
 - Pedro Henrique Moraes
 
 ## Requisitos Atendidos
