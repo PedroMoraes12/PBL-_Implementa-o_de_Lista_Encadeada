@@ -25,7 +25,7 @@
 - `remove()` - Remove nó específico
 
 ## Pré-requisitos
-- Java JDK 8 ou superior
+- Java JDK
 - NetBeans IDE (opcional)
 
 ## Execução no NetBeans
