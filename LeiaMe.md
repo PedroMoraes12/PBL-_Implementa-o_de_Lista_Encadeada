@@ -30,19 +30,5 @@
 
 ## Execução no NetBeans
 
-1. **Criar novo projeto:**
-   - File → New Project → Java Application
-   - Nome: "ListaEncadeada"
-
-2. **Criar classe principal:**
-   - Clique direito no pacote → New → Java Class
-   - Nome: "ListaEncadeada"
-   - Cole o código completo fornecido
-
-3. **Executar:**
-   - Clique direito → Run File ou pressione F6
-
-## Execução via Terminal
-```bash
-javac ListaEncadeada.java
-java ListaEncadeada
+**Executar:**
+   - Clique direito → Run File
